@@ -49,7 +49,8 @@ CONFIG_TARGET_armvirt=y
 # CONFIG_TARGET_omap is not set
 # CONFIG_TARGET_uml is not set
 # CONFIG_TARGET_zynq is not set
-# CONFIG_TARGET_x86 is not set
+# CONFIG_TARGET_x86 is set
+set
 # CONFIG_TARGET_armvirt_32 is not set
 CONFIG_TARGET_armvirt_64=y
 # CONFIG_TARGET_MULTI_PROFILE is not set
